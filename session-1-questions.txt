@@ -1,3 +1,6 @@
 1. Why have you decided to learn Git and GitHub?
-
+This is my second year teaching APCSA and started to use Repl.it Classroom last year and continued using it this year, but will no longer be available. 
 2. How do you plan to use GitHub in your classroom?
+I plan to distribute code to my students through the GitHub classroom and hopefully learn to autograde their code.
+3. What are ways that GitHub might help you and your students manage code?
+It will be another tool my students use to give them more depth in their learning. More tools in their toolbox as they move to CS majors/
